@@ -8,7 +8,9 @@
   body {
     /*max-height: 1000px;*/
     min-height: 100vh;
-    display: grid;
+    display: felx;
+    justify-content: center;
+    align-items: center;
     place-content: center;
     font-family: 'Barlow Semi Condensed', sans-serif;
     background-color: hsl(210, 46%, 95%);
